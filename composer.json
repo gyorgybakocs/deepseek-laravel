@@ -52,6 +52,8 @@
         "orchestra/testbench": "^7.0|^8.0",
         "phpunit/phpunit": "^9.0|^10.0"
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "DeepSeek\\DeepseekLaravel\\": "src"
