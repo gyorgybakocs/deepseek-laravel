@@ -38,7 +38,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/gyorgybakocs/deepseek-php/deepseek-php-client.git"
+            "url": "https://github.com/gyorgybakocs/deepseek-php-client.git"
         }
     ],
     "require": {
